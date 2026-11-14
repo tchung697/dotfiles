@@ -1,0 +1,21 @@
+{
+  "plugins": {
+    "R.nvim": {
+      "rev": "53be16a3c11272a975f866cc63aaf31b212e109a",
+      "src": "https://github.com/R-nvim/R.nvim"
+    },
+    "nvim-lspconfig": {
+      "rev": "443d92c6bea761ab54cdde46fb197a2b4d614bdd",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "nvim-treesitter": {
+      "rev": "60c0f468de3e636fa660a419d537e8033aca4e39",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "version": "'main'"
+    },
+    "vimtex": {
+      "rev": "cedc0a172e40d0d1d49670dd0d936d6e2df61de7",
+      "src": "https://github.com/lervag/vimtex"
+    }
+  }
+}
